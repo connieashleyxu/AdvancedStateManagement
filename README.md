@@ -1,2 +1,2 @@
 # AdvancedStateManagement
-ITP 358: Programming Graphical User Interfaces HW7
+USC's ITP 358: Programming Graphical User Interfaces HW7
